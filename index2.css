@@ -3,6 +3,7 @@ body {
    margin-bottom: 100px;
    color: black;
    visibility: visible;
+   position: relative;
 }
 
 td {
