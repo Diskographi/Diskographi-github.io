@@ -4,6 +4,7 @@ body {
    color: black;
    visibility: visible;
    position: relative;
+   background-color: white;
 }
 
 td {
